@@ -1,0 +1,24 @@
+{
+  "index": "legendsDocs",
+  "another": "Zed Hosting",
+  "advanced": {
+    "title": "Dev Tools",
+    "type": "default",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/legendsSystems",
+    "newWindow": true
+  }
+}
