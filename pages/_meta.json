@@ -8,17 +8,47 @@
       "typesetting": "article"
     }
   },
-  "about": {
-    "title": "About",
+  "home": {
+    "title": "Home",
     "type": "page",
     "theme": {
       "typesetting": "article"
     }
   },
-  "contact": {
-    "title": "Contact ↗",
+  "documentation": {
+    "title": "Documentation",
     "type": "page",
-    "href": "https://twitter.com/legendsSystems",
-    "newWindow": true
+    "href": "/"
+  },
+  "media": {
+    "title": "Media",
+    "type": "page",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "demos": {
+    "title": "Demos",
+    "type": "page",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "resources": {
+    "title": "Resources",
+    "type": "menu",
+    "theme": {
+      "typesetting": "article"
+    },
+    "items": {
+      "about": {
+        "title": "About",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "href": "mailto:hi@example.com"
+      }
+    }
   }
 }
